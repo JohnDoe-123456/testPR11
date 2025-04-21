@@ -1,0 +1,24 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+  padding: 120px 20px;
+  border: 1px solid black;
+  background: #4e4d4d;
+}
+
+h1 {
+  margin-bottom: 50px;
+  color: snow;
+  word-spacing: 30px;
+  letter-spacing: 20px;
+}
+
+p {
+  line-height: 2;
+  color: snow;
+}
